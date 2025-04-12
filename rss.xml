@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="windows-1251"?>
+<rss version="2.0">
+
+<channel>
+<title>High Quality Textile</title>
+<link>https://www.mq-textile.com/</link>
+<description>MqTextile качественные свитера.Оборудования немецкой марки Stoll.</description>
+<language>ru-ru</language>
+<copyright>Copyright 2018 MqTextile.com - High quality Textile</copyright>
+<author>Жавлонбек Артыков</author>
+
+  <image src="C:\Github\mqtextileuz.github.io/mq.jpg">
+<url>https://www.mq-textile.com/mq.jpg</url>
+<title>High quality textile company</title>
+<link>https://www.mq-textile.com/</link>
+</image>
+
+  <item turbo="true">
+
+<title>Лучшее предложение</title>
+<link>https://www.mq-textile.com/</link>  
+<turbo:content>
+ <p>Как хорошо начать день? Хорошо одеться!</p>   
+
+    </turbo:content>
+<description>Первым клиентам мы предлагаем лучшие цены.</description>
+</item>
+</channel>
+
+</rss>
